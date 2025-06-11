@@ -21,7 +21,7 @@ A simple movie recommendation system built with React (or any other stack you us
 
 1. Clone the repository:
 ``bash
-git clone https://github.com/your-username/movie-recommendation.git
+git clone https://github.com/Yeabebe/GDSC_Group5.git 
 cd movie-recommendation
 Install dependencies:
 
@@ -48,8 +48,6 @@ Get a list of recommended movies.
 
 Click on any movie to view more details.
 
-📬 Contact
-For feedback or questions, email: your.email@example.com
 
 📄 License
 This project is licensed under the MIT License.
